@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7C79E9B1-5FD8-41E1-B196-5A770978B917}|Default">
+  <MonoDevelop.Ide.ItemProperties.SampleCustomRenderers.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BF883419-3745-42DB-8DE7-5E65460DE4B3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Renderers/CustomButtonRenderer.cs">
+    <Files>
+      <File FileName="Droid/Renderers/CustomButtonRenderer.cs" Line="11" Column="52" />
+      <File FileName="SampleCustomRenderers/Views/MyPage.xaml" Line="16" Column="28" />
+      <File FileName="iOS/Renderers/CustomButtonRenderer.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleCustomRenderers" expanded="True">
+            <Node name="SampleCustomRenderers" expanded="True" />
+            <Node name="SampleCustomRenderers.Droid" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SampleCustomRenderers.Droid PreferredExecutionTarget="Android.0425495107" />
+</Properties>
